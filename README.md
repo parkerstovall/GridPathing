@@ -10,3 +10,4 @@ This project tests various methods of AI to solve a simple grid problem.
 5. Depth-first search with back tracking disabled
 6. Optimized Depth-first search
 7. Reinforcement Learning Environment using OpenAI Gym and Ray.
+8. There is also an option to run through the puzzle with user input, to showcase what is being solved.
