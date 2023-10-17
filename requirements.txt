@@ -1,2 +1,2 @@
-gymnasium
-ray[rrlib]
+gymnasium==0.28.1
+ray==2.7.1
